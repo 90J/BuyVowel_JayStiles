@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\BuyVowel_JayStiles\BuyVowel_JayStiles\bin\Debug\BuyVowel_JayStiles.exe.config
+C:\Users\jstiles\source\repos\BuyVowel_JayStiles\BuyVowel_JayStiles\bin\Debug\BuyVowel_JayStiles.exe
+C:\Users\jstiles\source\repos\BuyVowel_JayStiles\BuyVowel_JayStiles\bin\Debug\BuyVowel_JayStiles.pdb
+C:\Users\jstiles\source\repos\BuyVowel_JayStiles\BuyVowel_JayStiles\obj\Debug\BuyVowel_JayStiles.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\BuyVowel_JayStiles\BuyVowel_JayStiles\obj\Debug\BuyVowel_JayStiles.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\BuyVowel_JayStiles\BuyVowel_JayStiles\obj\Debug\BuyVowel_JayStiles.exe
+C:\Users\jstiles\source\repos\BuyVowel_JayStiles\BuyVowel_JayStiles\obj\Debug\BuyVowel_JayStiles.pdb
